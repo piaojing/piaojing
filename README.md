@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @piaojing
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python and react
 - 💞️ I’m looking to collaborate on web work
 - 📫 How to reach me: whatsapp +19175085371
 
